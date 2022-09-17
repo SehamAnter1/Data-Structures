@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1663090426 source:c:\mingw\bin\linkedlist\main.cpp
+	"Linkedlist.h"
+	<iostream>
+
+1663090426 c:\mingw\bin\linkedlist\include\linkedlist.h
+	"Node.h"
+	<iostream>
+
+1662935200 c:\mingw\bin\linkedlist\include\node.h
+
